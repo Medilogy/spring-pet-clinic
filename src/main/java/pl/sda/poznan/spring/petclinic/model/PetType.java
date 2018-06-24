@@ -1,4 +1,5 @@
 package pl.sda.poznan.spring.petclinic.model;
 
-public class PetType {
+public enum  PetType {
+    CAT, DOG, LIZZARD, SNAKE, BIRD, HAMSTER
 }
